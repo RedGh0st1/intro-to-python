@@ -379,9 +379,8 @@ Here's the recap of the bouncer rules:
 
 ## You Do: Data Types Exercises (15 min / 1:00)
 
-Open [Data Types](https://git.generalassemb.ly/sei-921/intro-to-python/blob/master/data-types.py) and work through the prompts.
+Open [Data Types](./data-types.py) and work through the prompts.
 
-## Break (10 min / 1:10)
 
 ## Lists & Collections(15 min / 1:30)
 

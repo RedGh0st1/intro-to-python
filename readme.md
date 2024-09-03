@@ -669,11 +669,6 @@ double()
 # => 10
 ```
 
-## You do: Exercise: Temperature Converter
-
-> 15 minutes exercise. 10 minutes review.
-
-[Temperature Converter (Python)](https://git.generalassemb.ly/ga-dc-wdi-python/temperature-converter-python)
 
 ## Compare and Contrast
 
@@ -699,9 +694,6 @@ programming language!
 The more you use a language, the more comfortable you get with it. The more
 comfortable you get with it, the easier it is to "think" in that language.
 
-## You Do: Javascript vs. Python Lab 
-
-[Convert some JS functions into Python functions to really see the differences](https://git.generalassemb.ly/sei-921/python-v-js/blob/master/README.md)
 
 ## Additional Resources
 

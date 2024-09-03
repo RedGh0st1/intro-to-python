@@ -696,12 +696,5 @@ comfortable you get with it, the easier it is to "think" in that language.
 ## Additional Resources
 
 - [Python Docs](https://docs.python.org/3/)
-- [Python Starter](https://git.generalassemb.ly/dc-wdi-python-django/python-starter)
 - [Python Beginner Tutorial (Docs)](https://docs.python.org/3/tutorial/index.html)
 
-
-## [License](LICENSE)
-
-1. All content is licensed under a CC­BY­NC­SA 4.0 license.
-1. All software code is licensed under GNU GPLv3. For commercial use or
-   alternative licensing, please contact legal@ga.co.

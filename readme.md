@@ -365,8 +365,7 @@ using `input`:
 Back during our first few lessons on JavaScript, you used conditionals and
 variables to create a Bouncer.
 
-We'll now write a program in Python to do the same! Make a Python file for this
-in your sandbox called `bouncer.py`
+We'll now write a program in Python to do the same! Make a Python file for this called `bouncer.py`
 
 Here's the recap of the bouncer rules:
 
@@ -514,7 +513,7 @@ A Python dictionary is an unordered collection organized by key-value pairs. A
 dictionary is very similar to a JavaScript object.
 
 ```py
-sei_class= {
+class= {
   "teacher": "Jimmy",
   "students": ["Yacko", "Wacko", "Dot"],
   "classroom": 2,
@@ -529,14 +528,14 @@ sei_class= {
 Accessing dictionary values:
 
 ```py
-sei_class["teacher"]
+class["teacher"]
 # => "John"
 ```
 
 Note that you can't do this, like you can in javascript!
 
 ```py
-sei_class.teacher
+class.teacher
 
 # => AttributeError: 'dict' object has no attribute 'teacher'
 ```
@@ -544,14 +543,14 @@ sei_class.teacher
 Modifying dictionary values:
 
 ```py
-sei_class["teacher"] = "Jimbo"
+class["teacher"] = "Jimbo"
 # => "Jimbo"
 ```
 
 Nested values:
 
 ```py
-sei_class["schedule"]["morning"]
+class["schedule"]["morning"]
 ```
 
 ### Dictionary Methods
@@ -569,10 +568,10 @@ Returns a `dict_keys` structure with all the keys in the dictionary. Can easily
 be translated to a list using `list()`.
 
 ```py
-sei_class.keys()
+class.keys()
 # => dict_keys(['teacher', 'students', 'classroom', 'in_session', 'schedule'])
 
-list(sei_class.keys())
+list(class.keys())
 # => ['teacher', 'students', 'classroom', 'in_session', 'schedule']
 ```
 
